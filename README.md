@@ -4,5 +4,6 @@
 # Autonomi1Seguridad
 
 #Reflexión: ¿qué pasa si la contraseña tiene 8+ caracteres y usa mayúsculas, números y símbolos?
+
 Si la contraseña tiene muchos digitos el programa se demora mas en decifrar la contraseña
 
